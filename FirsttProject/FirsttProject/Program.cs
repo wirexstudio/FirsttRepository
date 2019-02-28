@@ -15,6 +15,8 @@ namespace FirsttProject
 
             Console.Write("This is my first project on Visual Studio :)");
             Console.WriteLine("by Wirex Studio");
+
+            //added new commit (third)
         }
     }
 }
