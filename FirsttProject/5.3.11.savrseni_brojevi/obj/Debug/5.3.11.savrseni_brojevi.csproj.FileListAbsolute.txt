@@ -1,0 +1,7 @@
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.11.savrseni_brojevi\bin\Debug\5.3.11.savrseni_brojevi.exe.config
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.11.savrseni_brojevi\bin\Debug\5.3.11.savrseni_brojevi.exe
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.11.savrseni_brojevi\bin\Debug\5.3.11.savrseni_brojevi.pdb
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.11.savrseni_brojevi\obj\Debug\5.3.11.savrseni_brojevi.csprojAssemblyReference.cache
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.11.savrseni_brojevi\obj\Debug\5.3.11.savrseni_brojevi.csproj.CoreCompileInputs.cache
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.11.savrseni_brojevi\obj\Debug\5.3.11.savrseni_brojevi.exe
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.11.savrseni_brojevi\obj\Debug\5.3.11.savrseni_brojevi.pdb

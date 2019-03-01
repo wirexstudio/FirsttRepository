@@ -11,7 +11,7 @@ namespace _5._3._10.savrsen__broj
     {
         static void Main(string[] args)
         {
-            Console.Write("Unesite prirodan broj: ");
+            
 
             try
             {
