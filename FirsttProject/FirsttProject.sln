@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirsttProject", "FirsttProject\FirsttProject.csproj", "{9B9A990C-DBD9-4A93-894F-10C751AC0E77}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dz", "dz", "{379EAFC0-A74C-4B35-B2E5-FEDD7B9B8738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.9.djeljitelji", "5.3.9.djeljitelji\5.3.9.djeljitelji.csproj", "{01AEAE78-E53E-4054-8409-DA921CFA150D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +19,16 @@ Global
 		{9B9A990C-DBD9-4A93-894F-10C751AC0E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B9A990C-DBD9-4A93-894F-10C751AC0E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B9A990C-DBD9-4A93-894F-10C751AC0E77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01AEAE78-E53E-4054-8409-DA921CFA150D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01AEAE78-E53E-4054-8409-DA921CFA150D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01AEAE78-E53E-4054-8409-DA921CFA150D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01AEAE78-E53E-4054-8409-DA921CFA150D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{01AEAE78-E53E-4054-8409-DA921CFA150D} = {379EAFC0-A74C-4B35-B2E5-FEDD7B9B8738}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B8B813C9-9663-470B-8718-88E45A3BDC2D}

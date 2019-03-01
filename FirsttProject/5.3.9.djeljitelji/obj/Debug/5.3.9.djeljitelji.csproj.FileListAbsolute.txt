@@ -1,0 +1,7 @@
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.9.djeljitelji\bin\Debug\5.3.9.djeljitelji.exe.config
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.9.djeljitelji\bin\Debug\5.3.9.djeljitelji.exe
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.9.djeljitelji\bin\Debug\5.3.9.djeljitelji.pdb
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.9.djeljitelji\obj\Debug\5.3.9.djeljitelji.csprojAssemblyReference.cache
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.9.djeljitelji\obj\Debug\5.3.9.djeljitelji.csproj.CoreCompileInputs.cache
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.9.djeljitelji\obj\Debug\5.3.9.djeljitelji.exe
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.9.djeljitelji\obj\Debug\5.3.9.djeljitelji.pdb

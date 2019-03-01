@@ -1,0 +1,7 @@
+E:\VSRepo\FirsttRepository\FirsttProject\FirsttProject\bin\Debug\FirsttProject.exe.config
+E:\VSRepo\FirsttRepository\FirsttProject\FirsttProject\bin\Debug\FirsttProject.exe
+E:\VSRepo\FirsttRepository\FirsttProject\FirsttProject\bin\Debug\FirsttProject.pdb
+E:\VSRepo\FirsttRepository\FirsttProject\FirsttProject\obj\Debug\FirsttProject.csprojAssemblyReference.cache
+E:\VSRepo\FirsttRepository\FirsttProject\FirsttProject\obj\Debug\FirsttProject.csproj.CoreCompileInputs.cache
+E:\VSRepo\FirsttRepository\FirsttProject\FirsttProject\obj\Debug\FirsttProject.exe
+E:\VSRepo\FirsttRepository\FirsttProject\FirsttProject\obj\Debug\FirsttProject.pdb
