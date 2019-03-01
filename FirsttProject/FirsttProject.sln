@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dz", "dz", "{379EAFC0-A74C-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.9.djeljitelji", "5.3.9.djeljitelji\5.3.9.djeljitelji.csproj", "{01AEAE78-E53E-4054-8409-DA921CFA150D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.10.savrsen _broj", "5.3.10.savrsen _broj\5.3.10.savrsen _broj.csproj", "{012425D3-5AB8-43AA-9707-972A7CD1E5B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +25,17 @@ Global
 		{01AEAE78-E53E-4054-8409-DA921CFA150D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01AEAE78-E53E-4054-8409-DA921CFA150D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01AEAE78-E53E-4054-8409-DA921CFA150D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{012425D3-5AB8-43AA-9707-972A7CD1E5B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012425D3-5AB8-43AA-9707-972A7CD1E5B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012425D3-5AB8-43AA-9707-972A7CD1E5B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012425D3-5AB8-43AA-9707-972A7CD1E5B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{01AEAE78-E53E-4054-8409-DA921CFA150D} = {379EAFC0-A74C-4B35-B2E5-FEDD7B9B8738}
+		{012425D3-5AB8-43AA-9707-972A7CD1E5B7} = {379EAFC0-A74C-4B35-B2E5-FEDD7B9B8738}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B8B813C9-9663-470B-8718-88E45A3BDC2D}

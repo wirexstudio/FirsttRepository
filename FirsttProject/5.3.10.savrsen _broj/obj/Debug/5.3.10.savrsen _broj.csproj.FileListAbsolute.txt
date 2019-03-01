@@ -1,0 +1,7 @@
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.10.savrsen _broj\bin\Debug\5.3.10.savrsen _broj.exe.config
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.10.savrsen _broj\bin\Debug\5.3.10.savrsen _broj.exe
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.10.savrsen _broj\bin\Debug\5.3.10.savrsen _broj.pdb
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.10.savrsen _broj\obj\Debug\5.3.10.savrsen _broj.csprojAssemblyReference.cache
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.10.savrsen _broj\obj\Debug\5.3.10.savrsen _broj.csproj.CoreCompileInputs.cache
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.10.savrsen _broj\obj\Debug\5.3.10.savrsen _broj.exe
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.10.savrsen _broj\obj\Debug\5.3.10.savrsen _broj.pdb

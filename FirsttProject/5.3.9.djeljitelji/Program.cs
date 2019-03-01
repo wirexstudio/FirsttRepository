@@ -7,14 +7,6 @@ using System.Threading.Tasks;
 namespace _5._3._9.djeljitelji
 {
 
-    //class NeprirodanBroj : Exception
-    //{
-    //    public NeprirodanBroj(string poruka)
-    //    {
-            
-    //    }
-    //}
-
     class Program
     {
         static void Main(string[] args)
@@ -26,7 +18,7 @@ namespace _5._3._9.djeljitelji
                 int broj = int.Parse(Console.ReadLine());
                 if( broj <= 0)
                 {
-                    throw new NeprirodanBrojException("UNESITE PRIRODAN BROJ!");
+                    throw new PrirodanBrojException("UNESITE PRIRODAN BROJ!");
                 }
 
 
@@ -41,7 +33,12 @@ namespace _5._3._9.djeljitelji
                 }
 
             }
-            catch (NeprirodanBrojException ex)
+            catch (PrirodanBrojException ex)
+            {
+                Console.WriteLine("Greška. Poruka: " + ex.ToString());
+            }
+
+            catch(FormatException ex)
             {
                 Console.WriteLine("Greška. Poruka: " + ex.ToString());
             }
@@ -53,17 +50,17 @@ namespace _5._3._9.djeljitelji
         }
     }
 
-    public class NeprirodanBrojException : Exception
+    public class PrirodanBrojException : Exception
     {
-        public NeprirodanBrojException()
+        public PrirodanBrojException()
         {
         }
 
-        public NeprirodanBrojException(string message) : base(message)
+        public PrirodanBrojException(string message) : base(message)
         {
         }
 
-        public NeprirodanBrojException(string message, Exception innerException) : base(message, innerException)
+        public PrirodanBrojException(string message, Exception innerException) : base(message, innerException)
         {
         }
 
