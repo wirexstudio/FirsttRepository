@@ -11,18 +11,33 @@ namespace _5._3._19.suma
         static void Main(string[] args)
         {
             int suma = 0;
-            Console.Write("Unesite broj: ");
-            int broj = int.Parse(Console.ReadLine());
-
-            
-            while(broj > 0)
+            try
             {
-                suma += broj;
-                Console.WriteLine("Unesite sljedeći broj: ");
-                broj = int.Parse(Console.ReadLine());
+                int broj = -1;
+                while (broj != 0)
+                {
+                    Console.WriteLine("Unesite prirodan broj: ");
+                    broj = int.Parse(Console.ReadLine());
+                    if (broj < 0)
+                    {
+                        throw new PrirodanBrojException("UNESITE PRIRODAN BROJ!");
+                    }
+                    suma += broj;
+                }
+                Console.WriteLine("Suma svih unesenih brojeva je: {0}.", suma.ToString());
             }
-            Console.WriteLine("Suma svih unesenih brojeva je: {0}", suma);
-            Console.ReadLine();
+            catch (PrirodanBrojException ex)
+            {
+                Console.WriteLine("Greška. Poruka: {0}", ex.ToString());
+            }
+            catch (FormatException ex)
+            {
+                Console.WriteLine("Greška. Poruka: {0}", ex.ToString());
+            }
+            finally
+            {
+                Console.ReadLine();
+            }
         }
     }
 }
