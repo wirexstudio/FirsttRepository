@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.10.savrsen _broj", "5.3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.11.savrseni_brojevi", "5.3.11.savrseni_brojevi\5.3.11.savrseni_brojevi.csproj", "{49320F28-7A9C-4AF0-88DB-F116E6313C95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.13.min-max", "5.3.13.min-max\5.3.13.min-max.csproj", "{19B7FF1A-D8BA-4955-9DD7-1D6EB7166605}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{49320F28-7A9C-4AF0-88DB-F116E6313C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49320F28-7A9C-4AF0-88DB-F116E6313C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49320F28-7A9C-4AF0-88DB-F116E6313C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B7FF1A-D8BA-4955-9DD7-1D6EB7166605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B7FF1A-D8BA-4955-9DD7-1D6EB7166605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B7FF1A-D8BA-4955-9DD7-1D6EB7166605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B7FF1A-D8BA-4955-9DD7-1D6EB7166605}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -43,6 +49,7 @@ Global
 		{01AEAE78-E53E-4054-8409-DA921CFA150D} = {379EAFC0-A74C-4B35-B2E5-FEDD7B9B8738}
 		{012425D3-5AB8-43AA-9707-972A7CD1E5B7} = {379EAFC0-A74C-4B35-B2E5-FEDD7B9B8738}
 		{49320F28-7A9C-4AF0-88DB-F116E6313C95} = {379EAFC0-A74C-4B35-B2E5-FEDD7B9B8738}
+		{19B7FF1A-D8BA-4955-9DD7-1D6EB7166605} = {379EAFC0-A74C-4B35-B2E5-FEDD7B9B8738}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B8B813C9-9663-470B-8718-88E45A3BDC2D}

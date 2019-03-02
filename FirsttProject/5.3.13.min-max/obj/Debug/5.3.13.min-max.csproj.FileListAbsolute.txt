@@ -1,0 +1,7 @@
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.13.min-max\bin\Debug\5.3.13.min-max.exe.config
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.13.min-max\bin\Debug\5.3.13.min-max.exe
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.13.min-max\bin\Debug\5.3.13.min-max.pdb
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.13.min-max\obj\Debug\5.3.13.min-max.csprojAssemblyReference.cache
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.13.min-max\obj\Debug\5.3.13.min-max.csproj.CoreCompileInputs.cache
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.13.min-max\obj\Debug\5.3.13.min-max.exe
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.13.min-max\obj\Debug\5.3.13.min-max.pdb
