@@ -1,0 +1,7 @@
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.21.zavrsni_uspjeh\bin\Debug\5.3.21.zavrsni_uspjeh.exe.config
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.21.zavrsni_uspjeh\bin\Debug\5.3.21.zavrsni_uspjeh.exe
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.21.zavrsni_uspjeh\bin\Debug\5.3.21.zavrsni_uspjeh.pdb
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.21.zavrsni_uspjeh\obj\Debug\5.3.21.zavrsni_uspjeh.csprojAssemblyReference.cache
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.21.zavrsni_uspjeh\obj\Debug\5.3.21.zavrsni_uspjeh.csproj.CoreCompileInputs.cache
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.21.zavrsni_uspjeh\obj\Debug\5.3.21.zavrsni_uspjeh.exe
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.21.zavrsni_uspjeh\obj\Debug\5.3.21.zavrsni_uspjeh.pdb

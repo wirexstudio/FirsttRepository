@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.17.potencije2", "5.3.17
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.19.suma", "5.3.19.suma\5.3.19.suma.csproj", "{3748CFB6-DB65-4468-80AD-C1F2A8C69836}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.21.zavrsni_uspjeh", "5.3.21.zavrsni_uspjeh\5.3.21.zavrsni_uspjeh.csproj", "{7678A55D-6C66-4201-982E-E13AC348EE9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,10 @@ Global
 		{3748CFB6-DB65-4468-80AD-C1F2A8C69836}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3748CFB6-DB65-4468-80AD-C1F2A8C69836}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3748CFB6-DB65-4468-80AD-C1F2A8C69836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7678A55D-6C66-4201-982E-E13AC348EE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7678A55D-6C66-4201-982E-E13AC348EE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7678A55D-6C66-4201-982E-E13AC348EE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7678A55D-6C66-4201-982E-E13AC348EE9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -71,6 +77,7 @@ Global
 		{760CC62C-DE65-4E07-BD67-3C8A4E8332B0} = {379EAFC0-A74C-4B35-B2E5-FEDD7B9B8738}
 		{6920AA63-A1AD-464F-B98B-72553C6101F0} = {379EAFC0-A74C-4B35-B2E5-FEDD7B9B8738}
 		{3748CFB6-DB65-4468-80AD-C1F2A8C69836} = {379EAFC0-A74C-4B35-B2E5-FEDD7B9B8738}
+		{7678A55D-6C66-4201-982E-E13AC348EE9E} = {379EAFC0-A74C-4B35-B2E5-FEDD7B9B8738}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B8B813C9-9663-470B-8718-88E45A3BDC2D}
