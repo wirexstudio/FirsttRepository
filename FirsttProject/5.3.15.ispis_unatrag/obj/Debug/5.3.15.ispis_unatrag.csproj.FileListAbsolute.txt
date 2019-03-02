@@ -1,0 +1,7 @@
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.15.ispis_unatrag\bin\Debug\5.3.15.ispis_unatrag.exe.config
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.15.ispis_unatrag\bin\Debug\5.3.15.ispis_unatrag.exe
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.15.ispis_unatrag\bin\Debug\5.3.15.ispis_unatrag.pdb
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.15.ispis_unatrag\obj\Debug\5.3.15.ispis_unatrag.csproj.CoreCompileInputs.cache
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.15.ispis_unatrag\obj\Debug\5.3.15.ispis_unatrag.exe
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.15.ispis_unatrag\obj\Debug\5.3.15.ispis_unatrag.pdb
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.15.ispis_unatrag\obj\Debug\5.3.15.ispis_unatrag.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.17.potencije2\bin\Debug\5.3.17.potencije2.exe.config
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.17.potencije2\bin\Debug\5.3.17.potencije2.exe
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.17.potencije2\bin\Debug\5.3.17.potencije2.pdb
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.17.potencije2\obj\Debug\5.3.17.potencije2.csprojAssemblyReference.cache
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.17.potencije2\obj\Debug\5.3.17.potencije2.csproj.CoreCompileInputs.cache
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.17.potencije2\obj\Debug\5.3.17.potencije2.exe
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.17.potencije2\obj\Debug\5.3.17.potencije2.pdb

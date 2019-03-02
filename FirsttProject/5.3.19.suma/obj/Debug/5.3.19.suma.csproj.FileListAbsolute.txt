@@ -1,0 +1,7 @@
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.19.suma\bin\Debug\5.3.19.suma.exe.config
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.19.suma\bin\Debug\5.3.19.suma.exe
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.19.suma\bin\Debug\5.3.19.suma.pdb
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.19.suma\obj\Debug\5.3.19.suma.csprojAssemblyReference.cache
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.19.suma\obj\Debug\5.3.19.suma.csproj.CoreCompileInputs.cache
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.19.suma\obj\Debug\5.3.19.suma.exe
+E:\VSRepo\FirsttRepository\FirsttProject\5.3.19.suma\obj\Debug\5.3.19.suma.pdb
